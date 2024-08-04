@@ -13,9 +13,9 @@
 <br>
 <div id="description">
 <h2> Description </h2>
-Seize is a Command-line utility tool written in Golang that helps you generate images from CLI outputs by taking inputs from stdin. The tool allows you to specify font and background colors and can also upload the generated images to AWS S3 or DigitalOcean Spaces.
+Seize is a Command-line utility tool written in Golang that helps you generate images from CLI outputs by taking inputs from stdin. The tool allows you to specify font and background colors and can also upload the generated images to AWS S3.
 <br><br>
-The tool is designed to help users create customized images easily and quickly, with the ability to specify text, font color, and background color. It can upload the generated images to S3-compatible storage solutions, including AWS S3 and DigitalOcean Spaces.
+The tool is designed to help users create customized images easily and quickly, with the ability to specify text, font color, and background color. It can upload the generated images to S3-compatible storage solutions, including AWS S3.
 </div>
 <hr style="height: 1px;">
 <div id="features">
