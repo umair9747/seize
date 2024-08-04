@@ -9,7 +9,7 @@
 </p>
 <hr>
 <img src="./tool.gif">
-<center>⬇️</center>
+<center><h1>⬇️</h1></center>
 <img src="tool.png">
 <hr style="width:300px; height: 1px; margin: auto; margin-top: 20px;" />
 <br>
