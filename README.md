@@ -10,7 +10,7 @@
 <hr>
 <img src="./tool.gif">
 <center><h1>⬇️</h1></center>
-<img src="tool.png">
+<img src="tool.png" height="180px;" width="480px">
 <hr style="width:300px; height: 1px; margin: auto; margin-top: 20px;" />
 <br>
 <div id="description">
