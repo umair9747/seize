@@ -1,6 +1,6 @@
 
 <h1 align="center">Seize</h1>
-<p align="center"><b>A Command-line Utility for Generating Images from CLI Outputs</b></p>
+<p align="center"><b>A Command-line Utility for Generating Images from CLI Outputs using stdin</b></p>
 <p align="center">
 <a href="#description">Description</a> • <a href="#features">Features</a> • <a href="docs/documentation.md">Documentation</a> • <a href="#contactme">Contact Me</a><br><br>
 <img alt="Static Badge" src="https://img.shields.io/badge/Supports-AWS-yellow?logo=amazon">
