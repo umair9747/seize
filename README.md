@@ -2,7 +2,7 @@
 <h1 align="center">Seize</h1>
 <p align="center"><b>A Command-line Utility for Generating Images from CLI Outputs using stdin</b></p>
 <p align="center">
-<a href="#description">Description</a> • <a href="#features">Features</a> • <a href="docs/documentation.md">Documentation</a> • <a href="#contactme">Contact Me</a><br><br>
+<a href="#description">Description</a> • <a href="#features">Features</a> • <a href="#installation">Installation</a> • <a href="#usage">Usage</a> • <a href="#contactme">Contact Me</a><br><br>
 <img alt="Static Badge" src="https://img.shields.io/badge/Supports-AWS-yellow?logo=amazon">
 <img alt="Static Badge" src="https://img.shields.io/badge/Built with-Golang-green?logo=gear">
   <a href="https://www.buymeacoffee.com/umair9747" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 21px !important;width: 94px !important;" ></a>
